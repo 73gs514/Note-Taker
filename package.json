@@ -1,23 +1,16 @@
 {
     "name": "note-taker",
     "version": "1.0.0",
-    "description": "![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/73gs514/note-taker)\r ![GitHub repo size](https://img.shields.io/github/repo-size/73gs514/note-taker)\r ![GitHub](https://img.shields.io/github/license/73gs514/note-taker)\r ![GitHub followers](https://img.shields.io/github/followers/73gs514?style=social)\r ![GitHub package.json version](https://img.shields.io/github/package-json/v/73gs514/\r ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/73gs514/note-taker)note-taker)",
-    "main": "index.js",
+    "description": "",
+    "main": "server.js",
     "scripts": {
-      "test": "jest",
-      "start": "node server.js"
+      "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "keywords": [],
-    "author": "Brian Soares",
-    "license": "MIT",
+    "author": "",
+    "license": "ISC",
     "dependencies": {
-      "express": "^4.17.1"
-    },
-    "devDependencies": {
-      "jest": "^26.0.1"
-    },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/73gs514/note-taker"
+      "express": "^4.17.1",
+      "fs": "0.0.1-security",
+      "path": "^0.12.7"
     }
   }
