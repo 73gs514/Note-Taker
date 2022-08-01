@@ -1,16 +1,42 @@
-# Note-Taker
+# Note Taker
 
-## Description
-GIVEN a note-taking application
-WHEN I open the Note Taker
-THEN I am presented with a landing page with a link to a notes page
-WHEN I click on the link to the notes page
-THEN I am presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column
-WHEN I enter a new note title and the note’s text
-THEN a Save icon appears in the navigation at the top of the page
-WHEN I click on the Save icon
-THEN the new note I have entered is saved and appears in the left-hand column with the other existing notes
-WHEN I click on an existing note in the list in the left-hand column
-THEN that note appears in the right-hand column
-WHEN I click on the Write icon in the navigation at the top of the page
-THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
+## Table-of-Contents
+
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Questions](#questions)
+
+## [Description](#table-of-contents)
+
+This application allows user write, save, and delete notes, utilizing an Express backend to retrieve note data from a JSON file. 
+
+## [Installation](#table-of-contents)
+
+A user must clone this repository and make sure they have installed node.js on their computer. Once cloned and installed, the user will be required to run `npm install` in their terminal.
+
+## [Usage](#table-of-contents)
+
+From the command line in the terminal, a user can type `npm start` to connect to localhost:3001. The user can then visit `localhost:3001` from their browser to use the application. 
+
+The application is also live on Heroku at this link: https://note-taker-gsm.herokuapp.com/
+
+## [Contributing](#table-of-contents)
+
+Contributors can see installation instructions or contact me with the information below.
+
+## [License](#table-of-contents)
+
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
+## [Questions](#table-of-contents)
+
+If you have any questions about this project, please contact me using the following links:
+
+[GitHub](https://github.com/73gs514)
+
+[Email: 73gs514@gmail.com](mailto:73gs514@gmail.com)
